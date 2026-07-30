@@ -1,12 +1,6 @@
 {
-  "latest_version": "1.1.0",
-  "release_date": "28-07-2026",
-  "size_mb": 45,
-  "download_url": "https://github.com/omchavan0/bhagwati_app_updates/releases/download/v1.1.0/Bhagwati_Udhaari.exe",
-  "mandatory": false,
-  "changelog": [
-    "GST Billing मध्ये नवीन फीचर जोडलं",
-    "Credit Note module सुधारलं",
-    "छोटे बग फिक्स"
-  ]
+  "version": "1.0.1",
+  "download_url": "https://github.com/YOUR_USER/YOUR_REPO/releases/download/v1.0.1/main.exe",
+  "size": 18452100,
+  "release_notes": "- उधारी लोग मधील चुका दुरुस्त करण्यात आल्या आहेत."
 }
